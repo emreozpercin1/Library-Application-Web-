@@ -1,8 +1,8 @@
 import os
 # Your AZURE settings
-APPLICATION_ID = "1d62d205-5661-42f6-877a-35dd0ca0a7e4"
-CLIENT_ID = "31f4f9f9-bcf9-4c70-ae45-13a7b930e1bb"
-CLIENT_SECRET = "Mt-8Q~TiaOlG4TE38Hw1WpfOBCS9PbtOEZoCTa8-"
+APPLICATION_ID = "-"
+CLIENT_ID = "-"
+CLIENT_SECRET = "-"
 AUTHORITY = "https://login.microsoftonline.com/consumers"
 AUTHORITY_URL = 'https://login.microsoftonline.com/consumers/'
 REDIRECT_PATH = "/getAToken"
